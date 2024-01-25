@@ -1,5 +1,4 @@
 ----------[ Programming ]----------
-
 [2020-Current] Pha Klai
 • Lead Programmer Position
 
