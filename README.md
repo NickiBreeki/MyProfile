@@ -1,3 +1,5 @@
+----------[ Programming ]----------
+
 [2020-Current] Pha Klai
 • Lead Programmer Position
 
@@ -13,5 +15,19 @@
 [2023-Current] Sriwisa Events/Group
 • Programmer Position
 
-[2023-20224] Onslaught
+[2023-2024] Onslaught
 • Lead Developer (Programmer)
+
+-----------[ Building ]------------
+[2021-Current] Weaponry
+• The ownership of "Doomspire" and "Debugger"
+
+-----------[ Animation ]-----------
+[unknown] Crackshot Interactive
+• R6 Thirdperson Animation
+
+[2020-Current] Pha Klai
+• Character Animation 
+
+[2023-2024] Onslaught
+• ViewModel Firearm Animations
